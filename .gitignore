@@ -1,1 +1,4 @@
 /out/production/EasyToAdvancedDataStructures/com/tejas/Main.class
+*.class
+/out
+/build/
